@@ -11456,7 +11456,7 @@
 	<Camera make="Panasonic" model="DC-GH6" supported="no">
 		<ID make="Panasonic" model="DC-GH6">Panasonic DC-GH6</ID>
 	</Camera>
-	<Camera make="Panasonic" model="DC-GH7" supported="unknown-no-samples">
+	<Camera make="Panasonic" model="DC-GH7" supported="no">
 		<ID make="Panasonic" model="DC-GH7">Panasonic DC-GH7</ID>
 	</Camera>
 	<Camera make="Panasonic" model="DC-G9">
