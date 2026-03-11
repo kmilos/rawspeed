@@ -18565,6 +18565,9 @@
 	<Camera make="Canon" model="Canon PowerShot SX260 HS" mode="dng">
 		<ID make="Canon" model="PowerShot SX260 HS">Canon PowerShot SX260 HS</ID>
 	</Camera>
+	<Camera make="Canon" model="Canon PowerShot SX280 HS" mode="dng">
+		<ID make="Canon" model="PowerShot SX280 HS">Canon PowerShot SX280 HS</ID>
+	</Camera>
 	<Camera make="Canon" model="Canon PowerShot SX510 HS" mode="dng">
 		<ID make="Canon" model="PowerShot SX510 HS">Canon PowerShot SX510 HS</ID>
 	</Camera>
