@@ -11063,12 +11063,11 @@
 	<Camera make="Panasonic" model="DC-FZ81" supported="unknown-no-samples">
 		<ID make="Panasonic" model="DC-FZ81">Panasonic DC-FZ80</ID>
 	</Camera>
-	<Camera make="Panasonic" model="DC-FZ82">
-		<ID make="Panasonic" model="DC-FZ82">Panasonic DC-FZ80</ID>
+	<Camera make="Panasonic" model="DC-FZ80">
 		<Crop x="0" y="0" width="-128" height="0"/>
 		<Sensor black="143" white="4095"/>
 		<Aliases>
-			<Alias>DC-FZ80</Alias>
+			<Alias>DC-FZ82</Alias>
 			<Alias>DC-FZ83</Alias>
 			<Alias>DC-FZ85</Alias>
 			<Alias>DC-FZ80D</Alias>
@@ -11083,12 +11082,11 @@
 			</ColorMatrix>
 		</ColorMatrices>
 	</Camera>
-	<Camera make="Panasonic" model="DC-FZ82" mode="4:3">
-		<ID make="Panasonic" model="DC-FZ82">Panasonic DC-FZ80</ID>
+	<Camera make="Panasonic" model="DC-FZ80" mode="4:3">
 		<Crop x="0" y="0" width="-128" height="0"/>
 		<Sensor black="143" white="4095"/>
 		<Aliases>
-			<Alias>DC-FZ80</Alias>
+			<Alias>DC-FZ82</Alias>
 			<Alias>DC-FZ83</Alias>
 			<Alias>DC-FZ85</Alias>
 			<Alias>DC-FZ80D</Alias>
