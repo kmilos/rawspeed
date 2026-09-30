@@ -11533,13 +11533,13 @@
 	<Camera make="Panasonic" model="DC-TX2D" supported="unknown-no-samples">
 		<ID make="Panasonic" model="DC-TX2D">Panasonic DC-ZS200</ID>
 	</Camera>
-	<Camera make="Panasonic" model="DC-TZ202">
-		<ID make="Panasonic" model="DC-TZ202">Panasonic DC-ZS200</ID>
+	<Camera make="Panasonic" model="DC-TZ200">
+		<ID make="Panasonic" model="DC-TZ200">Panasonic DC-ZS200</ID>
 		<Crop x="0" y="0" width="0" height="0"/>
 		<Sensor black="142" white="4095"/>
 		<Aliases>
-			<Alias>DC-TZ200</Alias>
 			<Alias>DC-TZ200D</Alias>
+			<Alias>DC-TZ202</Alias>
 			<Alias>DC-TZ202D</Alias>
 			<Alias>DC-TZ220</Alias>
 			<Alias>DC-TZ220D</Alias>
@@ -11556,13 +11556,13 @@
 			</ColorMatrix>
 		</ColorMatrices>
 	</Camera>
-	<Camera make="Panasonic" model="DC-TZ202" mode="3:2">
-		<ID make="Panasonic" model="DC-TZ202">Panasonic DC-ZS200</ID>
+	<Camera make="Panasonic" model="DC-TZ200" mode="3:2">
+		<ID make="Panasonic" model="DC-TZ200">Panasonic DC-ZS200</ID>
 		<Crop x="0" y="0" width="0" height="0"/>
 		<Sensor black="142" white="4095"/>
 		<Aliases>
-			<Alias>DC-TZ200</Alias>
 			<Alias>DC-TZ200D</Alias>
+			<Alias>DC-TZ202</Alias>
 			<Alias>DC-TZ202D</Alias>
 			<Alias>DC-TZ220</Alias>
 			<Alias>DC-TZ220D</Alias>
