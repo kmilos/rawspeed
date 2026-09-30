@@ -10983,13 +10983,13 @@
 	<Camera make="Panasonic" model="DMC-TZ82" supported="unknown-no-samples">
 		<ID make="Panasonic" model="DMC-TZ82">Panasonic DMC-ZS60</ID>
 	</Camera>
-	<Camera make="Panasonic" model="DMC-TZ81">
-		<ID make="Panasonic" model="DMC-TZ81">Panasonic DMC-ZS60</ID>
+	<Camera make="Panasonic" model="DMC-TZ80">
+		<ID make="Panasonic" model="DMC-TZ80">Panasonic DMC-ZS60</ID>
 		<Crop x="0" y="0" width="-128" height="0"/>
 		<Sensor black="142" white="4095"/>
 		<Aliases>
 			<Alias>DMC-ZS60</Alias>
-			<Alias>DMC-TZ80</Alias>
+			<Alias>DMC-TZ81</Alias>
 			<Alias>DMC-TZ85</Alias>
 		</Aliases>
 		<ColorMatrices>
@@ -11000,13 +11000,13 @@
 			</ColorMatrix>
 		</ColorMatrices>
 	</Camera>
-	<Camera make="Panasonic" model="DMC-TZ81" mode="4:3">
-		<ID make="Panasonic" model="DMC-TZ81">Panasonic DMC-ZS60</ID>
+	<Camera make="Panasonic" model="DMC-TZ80" mode="4:3">
+		<ID make="Panasonic" model="DMC-TZ80">Panasonic DMC-ZS60</ID>
 		<Crop x="0" y="0" width="-128" height="0"/>
 		<Sensor black="142" white="4095"/>
 		<Aliases>
 			<Alias>DMC-ZS60</Alias>
-			<Alias>DMC-TZ80</Alias>
+			<Alias>DMC-TZ81</Alias>
 			<Alias>DMC-TZ85</Alias>
 		</Aliases>
 		<ColorMatrices>
