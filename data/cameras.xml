@@ -18580,6 +18580,9 @@
 	<Camera make="RICOH IMAGING COMPANY, LTD." model="RICOH GR IV Monochrome" mode="dng">
 		<ID make="Ricoh" model="GR IV Monochrome">Ricoh GR IV Monochrome</ID>
 	</Camera>
+	<Camera make="RICOH IMAGING COMPANY, LTD." model="RICOH GR IVx" mode="dng">
+		<ID make="Ricoh" model="GR IVx">Ricoh GR IVx</ID>
+	</Camera>
 	<Camera make="RICOH" model="RICOH GX200" mode="dng">
 		<ID make="Ricoh" model="GX200">RICOH GX200</ID>
 	</Camera>
